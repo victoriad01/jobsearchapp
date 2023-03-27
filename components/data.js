@@ -1,0 +1,178 @@
+export const popular_jobs = [
+  {
+    id: 1,
+    logo: require('../assets/images/logo1.jpg'),
+    company: 'Pay-U',
+    job_title: 'React Native Developer',
+    location: 'Lagos',
+    about:
+      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.     Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam eum, illo voluptas assumenda iusto sit magnam. Ullam laborum voluptatem animi molestiae doloremque? Maiores quaerat accusantium magni similique, iusto ab cumque. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.     Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam eum, illo voluptas assumenda iusto sit magnam. Ullam laborum voluptatem animi molestiae doloremque? Maiores quaerat accusantium magni similique, iusto ab cumque, - VI',
+    role: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus. Laboriosam eum, illo voluptas assumenda iusto sit magnam. Ullam laborum voluptatem animi molestiae doloremque? Maiores quaerat accusantium magni similique, iusto ab cumque. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus. ',
+    resp: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam eum, illo voluptas assumenda iusto sit magnam. Ullam laborum voluptatem animi molestiae doloremque? Maiores quaerat accusantium magni similique, iusto ab cumque. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.  Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+  },
+  {
+    id: 2,
+    logo: require('../assets/images/logo3.jpg'),
+    company: 'Sye Net',
+    job_title: 'Software Developer',
+    location: 'UK',
+    about:
+      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.     Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam eum, illo voluptas assumenda iusto sit magnam. Ullam laborum voluptatem animi molestiae doloremque? Maiores quaerat accusantium magni similique, iusto ab cumque',
+    role: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+    resp: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+  },
+  {
+    id: 3,
+    logo: require('../assets/images/google.png'),
+    company: 'Google Company',
+    job_title: 'Software Developer',
+    location: 'UK',
+    about:
+      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.     Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam eum, illo voluptas assumenda iusto sit magnam. Ullam laborum voluptatem animi molestiae doloremque? Maiores quaerat accusantium magni similique, iusto ab cumque',
+    role: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+    resp: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+  },
+  {
+    id: 4,
+    logo: require('../assets/images/images.png'),
+    company: 'SpringBay',
+    job_title: 'Backend Engineer',
+    location: 'US',
+    about:
+      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.     Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam eum, illo voluptas assumenda iusto sit magnam. Ullam laborum voluptatem animi molestiae doloremque? Maiores quaerat accusantium magni similique, iusto ab cumque',
+    role: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+    resp: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+  },
+  {
+    id: 5,
+    logo: require('../assets/images/lg1.jpg'),
+    company: 'Pay-U',
+    job_title: 'Full Stack Developer',
+    location: 'Lagos',
+    about:
+      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.     Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam eum, illo voluptas assumenda iusto sit magnam. Ullam laborum voluptatem animi molestiae doloremque? Maiores quaerat accusantium magni similique, iusto ab cumque',
+    role: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+    resp: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+  },
+  {
+    id: 6,
+    logo: require('../assets/images/logo3.jpg'),
+    company: 'Sye Net',
+    job_title: 'Software Engineer',
+    location: 'UK',
+    about:
+      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.     Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam eum, illo voluptas assumenda iusto sit magnam. Ullam laborum voluptatem animi molestiae doloremque? Maiores quaerat accusantium magni similique, iusto ab cumque',
+    role: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+    resp: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+  },
+  {
+    id: 7,
+    logo: require('../assets/images/lg2.png'),
+    company: 'Google Company',
+    job_title: 'Software Developer',
+    location: 'Canada',
+    about:
+      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.     Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam eum, illo voluptas assumenda iusto sit magnam. Ullam laborum voluptatem animi molestiae doloremque? Maiores quaerat accusantium magni similique, iusto ab cumque',
+    role: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+    resp: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+  },
+  {
+    id: 8,
+    logo: require('../assets/images/images.png'),
+    company: 'SpringBay',
+    job_title: 'Backend Engineer',
+    location: 'US',
+    about:
+      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.     Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam eum, illo voluptas assumenda iusto sit magnam. Ullam laborum voluptatem animi molestiae doloremque? Maiores quaerat accusantium magni similique, iusto ab cumque',
+    role: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+    resp: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+  },
+  {
+    id: 9,
+    logo: require('../assets/images/lg5.jpg'),
+    company: 'SpringBay',
+    job_title: 'Product Tester',
+    location: 'India',
+    about:
+      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.     Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam eum, illo voluptas assumenda iusto sit magnam. Ullam laborum voluptatem animi molestiae doloremque? Maiores quaerat accusantium magni similique, iusto ab cumque',
+    role: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+    resp: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+  },
+  {
+    id: 10,
+    logo: require('../assets/images/lg3.png'),
+    company: 'SpringBay',
+    job_title: 'SOftware Engineer',
+    location: 'India',
+    about:
+      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.     Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam eum, illo voluptas assumenda iusto sit magnam. Ullam laborum voluptatem animi molestiae doloremque? Maiores quaerat accusantium magni similique, iusto ab cumque',
+    role: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+    resp: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+  },
+  {
+    id: 11,
+    logo: require('../assets/images/lg4.png'),
+    company: 'SpringBay',
+    job_title: 'Backend Engineer',
+    location: 'India',
+    about:
+      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.     Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam eum, illo voluptas assumenda iusto sit magnam. Ullam laborum voluptatem animi molestiae doloremque? Maiores quaerat accusantium magni similique, iusto ab cumque',
+    role: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+    resp: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+  },
+  {
+    id: 12,
+    logo: require('../assets/images/lg6.jpg'),
+    company: 'SpringBay',
+    job_title: 'Frontend Engineer',
+    location: 'India',
+    about:
+      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.     Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam eum, illo voluptas assumenda iusto sit magnam. Ullam laborum voluptatem animi molestiae doloremque? Maiores quaerat accusantium magni similique, iusto ab cumque',
+    role: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+    resp: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+  },
+  {
+    id: 13,
+    logo: require('../assets/images/lg7.png'),
+    company: 'SpringBay',
+    job_title: 'Backend Engineer',
+    location: 'India',
+    about:
+      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.     Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam eum, illo voluptas assumenda iusto sit magnam. Ullam laborum voluptatem animi molestiae doloremque? Maiores quaerat accusantium magni similique, iusto ab cumque',
+    role: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+    resp: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+  },
+  {
+    id: 14,
+    logo: require('../assets/images/lg8.png'),
+    company: 'SpringBay',
+    job_title: 'Mobile App Engineer',
+    location: 'India',
+    about:
+      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.     Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam eum, illo voluptas assumenda iusto sit magnam. Ullam laborum voluptatem animi molestiae doloremque? Maiores quaerat accusantium magni similique, iusto ab cumque',
+    role: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+    resp: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+  },
+  {
+    id: 15,
+    logo: require('../assets/images/lg9.png'),
+    company: 'SpringBay',
+    job_title: 'Backend Engineer',
+    location: 'India',
+    about:
+      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.     Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam eum, illo voluptas assumenda iusto sit magnam. Ullam laborum voluptatem animi molestiae doloremque? Maiores quaerat accusantium magni similique, iusto ab cumque',
+    role: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+    resp: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+  },
+  {
+    id: 16,
+    logo: require('../assets/images/lg10.png'),
+    company: 'SpringBay',
+    job_title: 'Backend Engineer',
+    location: 'India',
+    about:
+      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.     Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam eum, illo voluptas assumenda iusto sit magnam. Ullam laborum voluptatem animi molestiae doloremque? Maiores quaerat accusantium magni similique, iusto ab cumque',
+    role: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+    resp: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam aliquam iusto voluptatum itaque quas libero illo cumque aliquid. Beatae neque esse quos harum nobis accusamus.',
+  },
+]
