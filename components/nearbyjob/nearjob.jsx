@@ -1,9 +1,7 @@
 import { Image } from 'react-native'
 import { StyleSheet, Text, View, Pressable } from 'react-native'
 import { ScrollView } from 'react-native-gesture-handler'
-
 import { popular_jobs } from '../data'
-
 import { useNavigation } from '@react-navigation/native'
 
 export const Nearjob = () => {
